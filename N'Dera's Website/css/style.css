@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.test {
+    position: relative;
+}
+
+.sidebar {
+    display: inline-block;
+    width: 25%;
+    border: 25px solid black;
+    padding: 30px;
+    margin:2px;
+    background-color: beige;
+    align-content: flex-start;
+    
+}
+h2 {
+    text-align: center
+}
+
+h3 {
+    text-align: center;
+    font-size: 24;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 24px;
+    background-color: beige;
+    border: 5px solid black;
+}
+
+
+
+l1 {
+    display: inline;
+    list-style-type:none;
+    
+}
+.center {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#btmPic{
+    width: 70%;
+    border: 25px solid black;
+}
+
+body {
+    background-image: url(pool-water-1439770501OqV.jpg)
+}
+* {box-sizing:border-box}
+
